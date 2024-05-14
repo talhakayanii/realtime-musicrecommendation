@@ -1,5 +1,6 @@
 Real-time music recommendation
 🎶 In this project, I'm creating a platform that's similar to Spotify but with some unique twists and features. Let me walk you through what I've been working on:
+
 Phase #1: Getting the Music Data Ready 
 The Dataset
 
