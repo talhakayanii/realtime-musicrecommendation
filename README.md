@@ -10,6 +10,7 @@ What I Did
 Using Python magic, I set up an Extract, Transform, Load (ETL) pipeline to handle this massive amount of data. I extracted features like Mel-Frequency Cepstral Coefficients (MFCC) from the audio files, transformed them into numerical data, and then loaded everything into MongoDB for easy access later on.
 
 Phase #2: Building the Music Recommendation Model 
+
 Getting Smart with the Data
 
 Now that I had all this music data nicely stored away, it was time to get smart with it. I used Apache Spark to train a recommendation model. Think of it like the brain behind suggesting what song you might like next based on what you're currently listening to.
